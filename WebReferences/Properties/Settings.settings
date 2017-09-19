@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebReferences.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WebReferences_CrmSdk_CrmService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://msldevcrm01:5555/MSCrmServices/2007/CrmService.asmx</Value>
+    </Setting>
+    <Setting Name="WebReferences_CrmSdk_Discovery_CrmDiscoveryService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://msldevcrm01:5555/mscrmservices/2007/ad/crmdiscoveryservice.asmx</Value>
+    </Setting>
+    <Setting Name="WebReferences_CrmSdk_MetaData_MetadataService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://msldevcrm01:5555/MSCrmServices/2007/MetadataService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
